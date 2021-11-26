@@ -1,10 +1,10 @@
 # 🤟🏻Hi, I'm Ricardo
 
-I'm a front-end developer since 2013. Coffee and dog lover. **Love to build custom websites** and learn something new or old, but not deprecated. Learning to **become a full-stack developer** and who knows what's coming 👀
+I'm a front-end developer since 2013. Coffee and dog lover. **Love to build custom websites** and learn something new or old, but not deprecated. Learning to **become a full-stack developer** and who knows what's next 👀
 
 Currently working as **freelancer**
 
-Learning now: **PHP** 
+Learning: **PHP / Laravel Framework** 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/rcrdk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/rcrdk)
@@ -41,8 +41,3 @@ Learning now: **PHP**
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
 ![image](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-## ⚡️Stats
-
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcrdk&count_private=true&show_icons=true)](https://github.com/rcrdk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcrdk)](https://github.com/rcrdk)
