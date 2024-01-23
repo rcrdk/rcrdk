@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ricardo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rcrdk&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcrdk&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 Front-End Developer.
   
