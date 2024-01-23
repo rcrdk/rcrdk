@@ -19,7 +19,7 @@
 
 - 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev)
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -40,7 +40,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
 
-<br><br>
+<br>
 
 ## 🤙🏻 Contact
 
