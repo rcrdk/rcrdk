@@ -42,7 +42,7 @@
 
 <br><br>
 
-## Contact
+## 🤙🏻 Contact
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/rcrdk" target="_blank">
