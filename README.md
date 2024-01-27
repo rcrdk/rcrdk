@@ -7,9 +7,9 @@
 
 - 🎨 I've been working for over 11 years creating custom websites and systems.
   
-- 🚀 I’m currently learning more about React and Next.JS at [Rocketseat](https://github.com/Rocketseat)
+- 🚀 I’m currently improving my skills on React and Next.JS at [Rocketseat](https://github.com/Rocketseat)
 
-- 👻 Sometimes I can do a little PHP/Laravel work.
+- 👻 Sometimes I do a little PHP/Laravel work.
   
 - 👀 I’m looking to collaborate on new projects around my current learning path.
 
@@ -17,11 +17,11 @@
 
 - ⚡ Fun fact: Madonna is the queen of pop.
 
-- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev)
+- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev) _(soon)_
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
