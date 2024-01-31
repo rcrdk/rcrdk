@@ -9,7 +9,7 @@
   
 - 🚀 I’m currently improving my skills on React and Next.JS at [Rocketseat](https://github.com/Rocketseat)
 
-- 👻 Sometimes I do a little PHP/Laravel work.
+- 👻 I do some PHP/Laravel work for paying my weekends.
   
 - 👀 I’m looking to collaborate on new projects around my current learning path.
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: Madonna is the queen of pop.
 
-- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev) _(soon)_
+- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev) _(soon, I hope)_
 
 <br>
 
