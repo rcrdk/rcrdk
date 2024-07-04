@@ -7,7 +7,7 @@
 
 - 🎨 I've been working for over 11 years creating custom websites and systems.
   
-- 🚀 I’m currently improving my skills on React and Next.JS at [Rocketseat](https://github.com/Rocketseat)
+- 🚀 I’m currently improving my skills on React and Next.JS at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk)
 
 - 👻 I do some PHP/Laravel work for paying my weekends.
   
