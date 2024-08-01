@@ -5,33 +5,34 @@
   
 - 💻 I’m currently working at [SmartMK](http://smartmk.com.br), [Sou Digital](http://sou.digital) and independent projects.
 
-- 🎨 I've been working for over 11 years creating custom websites and systems.
+- 🎨 I've been working for over 11 years creating custom websites, e-commerces and systems.
   
-- 🚀 I’m currently improving my skills on React and Next.JS at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk)
+- 🚀 I’m currently improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk)
 
 - 👻 I do some PHP/Laravel work for paying my weekends.
   
 - 👀 I’m looking to collaborate on new projects around my current learning path.
 
-- 💬 Ask me about **HTML, CSS, JS and Web Design**
+<!-- - 💬 Ask me about **HTML, CSS, JS and Web Design** -->
 
 - ⚡ Fun fact: Madonna is the queen of pop.
 
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)? 
 
-- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev) _(soon, I hope)_
+- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev)
 
 <br>
 
 ## 🛠 Tech Stack
 
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=next.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
