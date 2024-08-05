@@ -3,7 +3,7 @@
 
 - 🔥 Front-End Developer.
   
-- 💻 I’m currently working at [SmartMK](http://smartmk.com.br), [Sou Digital](http://sou.digital) and independent projects.
+- 💻 I’m currently working at [Meu Rosinha](http://meurosinha.com.br), [Sou Digital](http://sou.digital) and independent projects.
 
 - 🎨 I've been working for over 11 years creating custom websites, e-commerces and systems.
   
