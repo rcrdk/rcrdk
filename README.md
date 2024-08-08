@@ -54,7 +54,7 @@
   <a href="https://behance.net/rcrdk" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-rcrdk-05122A?style=flat&logo=behance" alt="behance"/>
   </a>
-  <a href="https://discordapp.com/channels/@rcrdk/#4426" target="_blank">
+  <a href="https://discordapp.com/users/810953409850114098" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-rcrdk-05122A?style=flat&logo=discord" alt="discord"/>
   </a>
 </p>
