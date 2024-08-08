@@ -15,7 +15,7 @@
 
 <!-- - 💬 Ask me about **HTML, CSS, JS and Web Design** -->
 
-- ⚡ Fun fact: Madonna is the queen of pop.
+- ⚡ Fun fact: Madonna is the queen of pop and it's not my dogs name (it's actually, Pink).
 
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)? 
 
