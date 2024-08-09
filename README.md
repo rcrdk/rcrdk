@@ -14,6 +14,7 @@
 - 👀 I’m looking to collaborate on new projects around my current learning path.
 
 <!-- - 💬 Ask me about **HTML, CSS, JS and Web Design** -->
+- 🐣 How it started: Around 2010 I was a obsessed by The Sims franchise for years and I had a blog where I shared the houses that I've built and other game resources. Of course, I became obsessed by coding then \o/.
 
 - ⚡ Fun fact: Madonna is the queen of pop and it's not my dogs name (it's actually, Pink).
 
