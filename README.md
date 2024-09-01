@@ -56,8 +56,8 @@
       <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />&nbsp;
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />&nbsp;
       <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma" />&nbsp;
-      <!-- <img alt="Nest.js" src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next-js" />&nbsp;
-      <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify" />&nbsp; -->
+      <!-- <img alt="Nest.js" src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next-js" />&nbsp; !-->
+      <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify" />&nbsp;
     </td>
   </tr>
 
@@ -65,15 +65,17 @@
     <th>Deploy & Cloud</th>
     <td>
       <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />&nbsp;
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=githubpages" />&nbsp;
     </td>
   </tr>
 
-  <!--<tr>
+  <tr>
     <th>Automated Test</th>
     <td>
-      <img alt="" src="" />&nbsp;
+      <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest" />&nbsp;
+      <img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-05122A?style=flat&logo=testinglibrary" />&nbsp;
     </td>
-  </tr> -->
+  </tr>
   
   <tr>
     <th>Linters</th>
@@ -92,7 +94,9 @@
       <img alt="Safari" src="https://img.shields.io/badge/-Safari-05122A?style=flat&logo=safari" />&nbsp;
       <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />&nbsp;
       <img alt="NPM" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm" />&nbsp;
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />&nbsp;
       <img alt="Httpie" src="https://img.shields.io/badge/-HTTPie-05122A?style=flat&logo=httpie" />&nbsp;
+      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia" />&nbsp;      
       <img alt="Trello" src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello" />&nbsp;
       <img alt="Notion" src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion" />&nbsp;
       <img alt="Figma" src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" />&nbsp;
