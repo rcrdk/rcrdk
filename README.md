@@ -54,6 +54,7 @@
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />&nbsp;
       <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />&nbsp;
       <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />&nbsp;
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgeSQL-05122A?style=flat&logo=postgresql" />&nbsp;
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />&nbsp;
       <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma" />&nbsp;
       <!-- <img alt="Nest.js" src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next-js" />&nbsp; !-->
@@ -66,6 +67,7 @@
     <td>
       <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />&nbsp;
       <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=githubpages" />&nbsp;
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions" />&nbsp;
     </td>
   </tr>
 
