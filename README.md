@@ -22,6 +22,8 @@
 
 - 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev)
 
+- 🕹️ Checkout my GitHub projects filtered by: [React and Next.js](https://github.com/rcrdk?tab=repositories&q=React), [Node.js](https://github.com/rcrdk?tab=repositories&q=Node.Js)
+
 <br>
 
 ## 🛠 Languages and tools
