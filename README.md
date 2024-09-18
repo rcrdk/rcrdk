@@ -67,7 +67,7 @@
       <img alt="Nest.js" src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs" />&nbsp;
       <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify" />&nbsp;
       <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />&nbsp;
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgeSQL-05122A?style=flat&logo=postgresql" />&nbsp;
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />&nbsp;
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />&nbsp;
       <img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma%20ORM-05122A?style=flat&logo=prisma" />&nbsp;
       <!-- <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle%20ORM-05122A?style=flat&logo=drizzle" />&nbsp; -->
