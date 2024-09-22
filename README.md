@@ -71,7 +71,7 @@
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />&nbsp;
       <img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma%20ORM-05122A?style=flat&logo=prisma" />&nbsp;
       <!-- <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle%20ORM-05122A?style=flat&logo=drizzle" />&nbsp; -->
-      <!-- <img alt="Redis" src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" />&nbsp; -->
+      <img alt="Redis" src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" />&nbsp;
     </td>
   </tr>
 
@@ -81,8 +81,8 @@
       <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />&nbsp;
       <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=githubpages" />&nbsp;
       <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions" />&nbsp;
-      <!-- <img alt="AWS" src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices" />&nbsp; -->
-      <!-- <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" />&nbsp; -->
+      <img alt="AWS SDK" src="https://img.shields.io/badge/-AWS%20SDK-05122A?style=flat&logo=amazonwebservices" />&nbsp;
+      <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" />&nbsp;
     </td>
   </tr>
 
