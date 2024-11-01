@@ -124,6 +124,7 @@
       <img alt="Httpie" src="https://img.shields.io/badge/-HTTPie-05122A?style=flat&logo=httpie" />&nbsp;
       <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia" />&nbsp;      
       <img alt="Trello" src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello" />&nbsp;
+      <img alt="Toggl Track" src="https://img.shields.io/badge/-Toggl%20Track-05122A?style=flat&logo=toggltrack" />&nbsp;
       <img alt="Notion" src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion" />&nbsp;
       <img alt="Toggle Track" src="https://img.shields.io/badge/-Toggl%20Track-05122A?style=flat&logo=toggltrack" />&nbsp;
       <img alt="Figma" src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" />&nbsp;
