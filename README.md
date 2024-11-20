@@ -7,7 +7,7 @@
 
 - 🎨 I've been working for over 11 years creating custom websites, e-commerces and systems.
   
-- 🚀 I’m currently improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk)
+- 🚀 I’m currently improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning React Native!)
 
 - 👻 I do some PHP/Laravel work for paying my weekends.
   
@@ -16,7 +16,7 @@
 <!-- - 💬 Ask me about **HTML, CSS, JS and Web Design** -->
 - 🐣 How it started: Around 2010 I was a obsessed by The Sims franchise for years and I had a blog where I shared the houses that I've built and other game resources. Of course, I became obsessed by coding then \o/.
 
-- ⚡ Fun fact: Madonna is the queen of pop and it's not my dogs name (it's actually, Pink).
+- ⚡ Fun fact: Madonna is the queen of pop.
 
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)? 
 
@@ -40,6 +40,7 @@
       <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />&nbsp;
       <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components" />&nbsp;
       <!-- <img alt="Vue" src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs" />&nbsp; -->
+      <!-- <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs" />&nbsp; -->
       <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=react" />&nbsp;
       <img alt="SASS" src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass" />&nbsp;
       <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />&nbsp;
@@ -62,14 +63,26 @@
       <img alt="Tabler Icons" src="https://img.shields.io/badge/-Tabler%20Icons-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAACHFBMVEUAAAAiZswfbcUhacMgasQgasQga8Mfa8MfasQfasMeasQfasMga8Qga8Mfa8Mha8IccMYfasMfasMgasQfa8QgbMMeasMfasQfa8QmZr8gasQga8MeasIfa8Mga8Ufa8Mga8Qfa8QebMMfacIiaMUga8Qea8Eaa8kfa8Ufa8QgasMkbcgeasQga8MgasMfa8Qga8Qga8MeasMfasQgasIga8Qga8MgasMfasQfa8MgasQga8QgasQfasMga8QfasMgasQgasMgasQga8Qfa8QfasMhacInYsQga8IgacMfb78eacMgasMia8Yga8Mha8MhbMMgasMgacQfacMfa8QeacUfacMfa8MgasMfacQga8QibMR5ptzU4/T7/P709/y1zutHhc4hbMSwy+r////5+/2Frt92pNvH2vA6fMvP3/Lr8vpOitDw9fv1+fxjmNbg6vf8/f51o9qavORnmtcxdsjk7fj4+v1XkNPL3PHy9vxBgc0jbcWQteL9/v/Y5fUncMZbktPq8fmdvuU9fsz+/v9bktQ+f8zm7vjD1+8/f8zn7/k4e8ru8/o0eMnb5/a40Ozc6Pb7/f5NidBMiNDl7viLsuDF2fDI2vDo8Pk3esoxd8lIhs9+qt3W5PT3+v2fv+ZYkNObveVlmdbx9vvv9ftVjtLX5PREg82Yu+R+qd260e0yd8nV4/T2+f18qNx7p9zS4fOpxuhAgM3r67+jAAAAWnRSTlMADzFNZX+Wq7vL2eju9cpMEmCjx+svqvupFKX+SOlH+vxoY2oWpjITYcjGDkpmfJiVvLja1ufk7ery7/f0+ebj1ZeUfntiLg1fXhARpy2kRURnRqiiS8nY9rq1qCUcAAAC00lEQVRYw6WXZ1sTURCFDz3AUtKBgMFYQLFgiWIBFaQoRVSaA1gXFLui2LA3FFQs2AEbFlRsf9APhOzcbGA3u+fbmWfnfe6du7cMEKqo6JjYuPgES2JSsiSlEKVIUnJSqiUhPi42LToKMyrdarM7aEY57DZr+jTpTpebdMmd4QyTnpnlId3yZGWG5mfnUETKmSXmW70UoXJn83wfGdAcNn63EYA7O1i/ZDIkx9wAIIsMal5g/T1GATQfAOAynE8uAMhzGwe4MwHkkwnlA7CZAdgALDADWAjAYQaQAxSQKRUgWvCtbe279+zdpx/gRAy3+w/IsizLHZ2tegGLsJjbg3JAh7p0AnyI4/bwFEA+clQfYAmWcnssCJCPn9AFKEQCtycVgHzqtB5ABpZx2y1zwhkdgOVI5PZsDyecO68NsGOF4LsucMLFS5qAlfCLgd7LVxjh6jUtwCqsDg1dv8EIN7UARVijit1ihbh9RwOwFuvUwbt9CuGeBmA9csNE7/crddQAFCPciTigDOGBJiDMFB4+UqYwqDkFdREHHiv5T55qFlG1jM+G2DI+117GEjHQ2tnB8l9oHiwbkCQO/yX/lV+91vyVNyKV2zdDwlZ4S0S9wyOjLDY6MtwrbiYLt++EzfieiOiDHKpucTsLB0ofz/9IRESfVIAx8UDZxC0b7Nhn1SkXDlCKMm6/BL/q+RoIqafwjWdsRiy341Mfff8RPCDGf06w7In2X8LSliNN+AsGJ0/kNt03U3bo1fb7z0T/33/6r7YKs5drpfnr3fwDw/QTp8oMYAuArcXG873VAJBhHFBj8qnrqZ18LNeZKSEA5PmN5fuD7ds2r6EK1istS7nRd7KJpsu9XWzbdkTY9vjrQxvHvLpIGk9buPa3YqfOeXhraqfpnqurGuxFGvvX3lBVPXMLX+ls9JUVuixNzX5JaiFqkaSS5qZdrtIyX6OzUvX5f++YHJj9Aeg/AAAAAElFTkSuQmCC" />&nbsp;
     </td>
   </tr>
+
+  <!-- <tr>
+    <th>Mobile</th>
+    <td>
+		<img alt="React Native" src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" />&nbsp;
+		<img alt="Expo" src="https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo" />&nbsp;
+		<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" />&nbsp;
+		<img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components" />&nbsp;
+	</td>
+  </tr> -->
   
   <tr>
     <th>Back-end</th>
     <td>
-      <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />&nbsp;
-      <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />&nbsp;
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;
+	  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" />&nbsp;
+   	  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />&nbsp;
       <img alt="Nest.js" src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs" />&nbsp;
       <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify" />&nbsp;
+	  <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />&nbsp;
       <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />&nbsp;
       <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />&nbsp;
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />&nbsp;
