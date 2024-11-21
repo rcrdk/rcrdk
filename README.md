@@ -22,7 +22,7 @@
 
 - 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev)
 
-- 🕹️ Checkout my GitHub projects filtered by: [React and Next.js](https://github.com/rcrdk?tab=repositories&q=React), [Node.js](https://github.com/rcrdk?tab=repositories&q=Node.Js)
+- 🕹️ Checkout my GitHub projects filtered by: [React and Next.js](https://github.com/rcrdk?tab=repositories&q=React), [Node.js](https://github.com/rcrdk?tab=repositories&q=Node.Js), [React Native](https://github.com/rcrdk?tab=repositories&q=React+Native)
 
 <br>
 
