@@ -64,15 +64,16 @@
     </td>
   </tr>
 
-  <!-- <tr>
+  <tr>
     <th>Mobile</th>
     <td>
 		<img alt="React Native" src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" />&nbsp;
 		<img alt="Expo" src="https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo" />&nbsp;
 		<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" />&nbsp;
 		<img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components" />&nbsp;
+	    	<img alt="" src="https://img.shields.io/badge/-Gluestack%20UI-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAyOCAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCA3LjY2ODE1TDkuOTk5OTEgMC4zMDIyNDZWMy43NzgzOUwwIDExLjE0NDNWNy42NjgxNVoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTIwIDcuNjY4MTVMMTAuMDAwMSAwLjMwMjI0NlYzLjc3ODM5TDIwIDExLjE0NDNWNy42NjgxNVoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTAgMTUuNjY4NEw5Ljk5OTkxIDguMzAyNDlWMTEuNzc4NkwwIDE5LjE0NDVWMTUuNjY4NFoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTIwIDE1LjY2ODRMMTAuMDAwMSA4LjMwMjQ5VjExLjc3ODZMMjAgMTkuMTQ0NVYxNS42Njg0WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNS4yNTAyNCAxMS45NjAzTDE0LjAwMDIgNS41MTUxNFY4LjU1Njc2TDUuMjUwMjQgMTUuMDAxOVYxMS45NjAzWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMjIuNzUwMiAxMS45NjAzTDE0LjAwMDMgNS41MTUxNFY4LjU1Njc2TDIyLjc1MDIgMTUuMDAxOVYxMS45NjAzWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNS4yNSAxOC45NjAxTDEzLjk5OTkgMTIuNTE0OVYxNS41NTY1TDUuMjUgMjIuMDAxN1YxOC45NjAxWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMjIuNzUgMTguOTYwM0wxNC4wMDAxIDEyLjUxNTFWMTUuNTU2OEwyMi43NSAyMi4wMDE5VjE4Ljk2MDNaIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjAuMDAwMjQ0MTQxIiB3aWR0aD0iMjcuOTk5OSIgaGVpZ2h0PSIyNy45OTk5IiByeD0iMS45OTk5OSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIwLjAwMDI0NDE0MSIgd2lkdGg9IjI3Ljk5OTkiIGhlaWdodD0iMjcuOTk5OSIgcng9IjEuOTk5OTkiIGZpbGw9IiNGRUZFRkUiLz48cGF0aCBkPSJNNi4wMDAyNCAxMi4zNTU4TDE0IDYuNDYzMTNWOS4yNDRMNi4wMDAyNCAxNS4xMzY2VjEyLjM1NThaIiBmaWxsPSIjMTIxMjEyIi8+PHBhdGggZD0iTTIxLjk5OTggMTIuMzU1OEwxNCA2LjQ2MzEzVjkuMjQ0TDIxLjk5OTggMTUuMTM2NlYxMi4zNTU4WiIgZmlsbD0iIzEyMTIxMiIvPjxwYXRoIGQ9Ik02LjAwMDI0IDE4Ljc1NTdMMTQgMTIuODYzVjE1LjY0MzlMNi4wMDAyNCAyMS41MzY1VjE4Ljc1NTdaIiBmaWxsPSIjMTIxMjEyIi8+PHBhdGggZD0iTTIxLjk5OTggMTguNzU1N0wxNCAxMi44NjNWMTUuNjQzOUwyMS45OTk4IDIxLjUzNjVWMTguNzU1N1oiIGZpbGw9IiMxMjEyMTIiLz48L3N2Zz4=" />&nbsp;
 	</td>
-  </tr> -->
+  </tr>
   
   <tr>
     <th>Back-end</th>
