@@ -76,6 +76,7 @@
 		<img alt="Firebase Cloud Messaging" src="https://img.shields.io/badge/-Firebase%20Cloud%20Messaging-05122A?style=flat&logo=firebase" />&nbsp;
 	    	<img alt="React Native Reanimated" src="https://img.shields.io/badge/-React%20Native%20Reanimated-05122A?style=flat&logo=" />&nbsp;
 	    	<img alt="React Native Gesture Handler" src="https://img.shields.io/badge/-React%20Native%20Gesture%20Handler-05122A?style=flat&logo=" />&nbsp;
+	    	<img alt="React Native Skia" src="https://img.shields.io/badge/-React%20Native%20Skia-05122A?style=flat&logo=" />&nbsp;
 	</td>
   </tr>
   
