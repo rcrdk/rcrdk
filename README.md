@@ -1,17 +1,14 @@
 <h1 align="left">Hi 👋, I'm Ricardo</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcrdk&color=yellow" alt="Profile views" /> -->
 
-- 🔥 Front-End Developer.
-	
-- 💻 I’m currently working at [Meu Rosinha](http://meurosinha.com.br), [Sou Digital](http://sou.digital) and independent projects.
-- 🎨 I've been working for over 11 years creating custom websites, e-commerces and systems.
-- 🚀 I’m currently improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning React Native!)
+- 🔥 I'm a Front-End Developer.
+- 💻 I’m currently working at [Meu Rosinha](http://meurosinha.com.br).
+- 🎨 I've been working for over 12 years creating custom websites, landing pages, e-commerces and web apps.
+- 🚀 I’m constantly improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning React Native!)
 - 👻 I do some PHP/Laravel work for paying my weekends.
-- 👀 I’m looking to collaborate on new projects around my current learning path.
-- 🐣 How it started: Around 2010 I was a obsessed by The Sims franchise for years and I had a blog where I shared the houses that I've built and other game resources. Of course, I became obsessed by coding then \o/.
+- 👀 I’m open to collaborate on new projects.
 - ⚡ Fun fact: Madonna is the queen of pop.
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)? 
-- 🧑🏼‍💻 More at [rcrdk.dev](https://rcrdk.dev)
+- 🧑🏼‍💻 Read more at [rcrdk.dev](https://rcrdk.dev)
 - 🕹️ Checkout my GitHub projects filtered by: [React and Next.js](https://github.com/rcrdk?tab=repositories&q=React), [Node.js](https://github.com/rcrdk?tab=repositories&q=Node.Js), [React Native](https://github.com/rcrdk?tab=repositories&q=React+Native)
 
 <br>
@@ -22,14 +19,14 @@
 	<tr>
 		<th>Front-end</th>
 			<td>
-			<img alt="HTML5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />&nbsp;
-			<img alt="CSS3" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />&nbsp;
 			<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" />&nbsp;
 			<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;
+			<img alt="HTML5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />&nbsp;
+			<img alt="CSS3" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />&nbsp;
 			<img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />&nbsp;
 			<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />&nbsp;
 			<img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components" />&nbsp;
-			<!-- <img alt="Vue" src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs" />&nbsp; -->
+			<img alt="Vue" src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs" />&nbsp;
 			<!-- <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs" />&nbsp; -->
 			<img alt="JQuery" src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=react" />&nbsp;
 			<img alt="SASS" src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass" />&nbsp;
@@ -52,6 +49,7 @@
 			<img alt="Zustand" src="https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=redux" />&nbsp;
 			<img alt="Lighthouse" src="https://img.shields.io/badge/-Lighthouse-05122A?style=flat&logo=lighthouse" />&nbsp;
 			<img alt="Tabler Icons" src="https://img.shields.io/badge/-Tabler%20Icons-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAACHFBMVEUAAAAiZswfbcUhacMgasQgasQga8Mfa8MfasQfasMeasQfasMga8Qga8Mfa8Mha8IccMYfasMfasMgasQfa8QgbMMeasMfasQfa8QmZr8gasQga8MeasIfa8Mga8Ufa8Mga8Qfa8QebMMfacIiaMUga8Qea8Eaa8kfa8Ufa8QgasMkbcgeasQga8MgasMfa8Qga8Qga8MeasMfasQgasIga8Qga8MgasMfasQfa8MgasQga8QgasQfasMga8QfasMgasQgasMgasQga8Qfa8QfasMhacInYsQga8IgacMfb78eacMgasMia8Yga8Mha8MhbMMgasMgacQfacMfa8QeacUfacMfa8MgasMfacQga8QibMR5ptzU4/T7/P709/y1zutHhc4hbMSwy+r////5+/2Frt92pNvH2vA6fMvP3/Lr8vpOitDw9fv1+fxjmNbg6vf8/f51o9qavORnmtcxdsjk7fj4+v1XkNPL3PHy9vxBgc0jbcWQteL9/v/Y5fUncMZbktPq8fmdvuU9fsz+/v9bktQ+f8zm7vjD1+8/f8zn7/k4e8ru8/o0eMnb5/a40Ozc6Pb7/f5NidBMiNDl7viLsuDF2fDI2vDo8Pk3esoxd8lIhs9+qt3W5PT3+v2fv+ZYkNObveVlmdbx9vvv9ftVjtLX5PREg82Yu+R+qd260e0yd8nV4/T2+f18qNx7p9zS4fOpxuhAgM3r67+jAAAAWnRSTlMADzFNZX+Wq7vL2eju9cpMEmCjx+svqvupFKX+SOlH+vxoY2oWpjITYcjGDkpmfJiVvLja1ufk7ery7/f0+ebj1ZeUfntiLg1fXhARpy2kRURnRqiiS8nY9rq1qCUcAAAC00lEQVRYw6WXZ1sTURCFDz3AUtKBgMFYQLFgiWIBFaQoRVSaA1gXFLui2LA3FFQs2AEbFlRsf9APhOzcbGA3u+fbmWfnfe6du7cMEKqo6JjYuPgES2JSsiSlEKVIUnJSqiUhPi42LToKMyrdarM7aEY57DZr+jTpTpebdMmd4QyTnpnlId3yZGWG5mfnUETKmSXmW70UoXJn83wfGdAcNn63EYA7O1i/ZDIkx9wAIIsMal5g/T1GATQfAOAynE8uAMhzGwe4MwHkkwnlA7CZAdgALDADWAjAYQaQAxSQKRUgWvCtbe279+zdpx/gRAy3+w/IsizLHZ2tegGLsJjbg3JAh7p0AnyI4/bwFEA+clQfYAmWcnssCJCPn9AFKEQCtycVgHzqtB5ABpZx2y1zwhkdgOVI5PZsDyecO68NsGOF4LsucMLFS5qAlfCLgd7LVxjh6jUtwCqsDg1dv8EIN7UARVijit1ihbh9RwOwFuvUwbt9CuGeBmA9csNE7/crddQAFCPciTigDOGBJiDMFB4+UqYwqDkFdREHHiv5T55qFlG1jM+G2DI+117GEjHQ2tnB8l9oHiwbkCQO/yX/lV+91vyVNyKV2zdDwlZ4S0S9wyOjLDY6MtwrbiYLt++EzfieiOiDHKpucTsLB0ofz/9IRESfVIAx8UDZxC0b7Nhn1SkXDlCKMm6/BL/q+RoIqafwjWdsRiy341Mfff8RPCDGf06w7In2X8LSliNN+AsGJ0/kNt03U3bo1fb7z0T/33/6r7YKs5drpfnr3fwDw/QTp8oMYAuArcXG873VAJBhHFBj8qnrqZ18LNeZKSEA5PmN5fuD7ds2r6EK1istS7nRd7KJpsu9XWzbdkTY9vjrQxvHvLpIGk9buPa3YqfOeXhraqfpnqurGuxFGvvX3lBVPXMLX+ls9JUVuixNzX5JaiFqkaSS5qZdrtIyX6OzUvX5f++YHJj9Aeg/AAAAAElFTkSuQmCC" />&nbsp;
+			<img alt="Swiper" src="https://img.shields.io/badge/-Swiper-05122A?style=flat&logo=swiper" />&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -79,15 +77,14 @@
 			<img alt="Fastify" src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify" />&nbsp;
 			<img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />&nbsp;
 			<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />&nbsp;
+			<img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma%20ORM-05122A?style=flat&logo=prisma" />&nbsp;
 			<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />&nbsp;
 			<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />&nbsp;
-			<img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma%20ORM-05122A?style=flat&logo=prisma" />&nbsp;
 			<!-- <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle%20ORM-05122A?style=flat&logo=drizzle" />&nbsp; -->
 			<!-- <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase" />&nbsp; -->
 			<img alt="Redis" src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" />&nbsp;
 			<img alt="Auth.js" src="https://img.shields.io/badge/-Auth.js-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMuNzE4NzUgMy45Mjk3MkM1LjYyNzg5IDMuMzY3MzMgOC40NTU2OCAyLjUyNDExIDkuNjQ4MjggMi4xNjgxMkMxMC4wMTczIDIuMDU3OTcgMTAuNDA3NSAyLjA1NzExIDEwLjc3NzEgMi4xNjUzM0MxMS45MjYgMi41MDE3MyAxNC41OTg0IDMuMjg3ODMgMTYuNjY0OCAzLjkyMzQ5QzE3LjA4MjggNC4wNTIwOSAxNy4zNjc5IDQuNDQ1OTMgMTcuMzU3NSA0Ljg4MzE5QzE3LjExODggMTQuOTg2NyAxMi4wMTk2IDE3LjQxMDUgMTAuNTg0MiAxNy44OTM2QzEwLjMzODggMTcuOTc2MiAxMC4wODM3IDE3Ljk3NjQgOS44MzgwMiAxNy44OTQ1QzguMzk1NjcgMTcuNDEzNyAzLjI1NDIxIDE0Ljk5NTEgMy4wMDkwNyA0Ljg5NzE0QzIuOTk4MyA0LjQ1MzE3IDMuMjkyNzYgNC4wNTUyMSAzLjcxODc1IDMuOTI5NzJaIiBmaWxsPSIjRDlEOUQ5Ii8+PG1hc2sgaWQ9Im1hc2swXzE1Nl8yNTIiIHN0eWxlPSJtYXNrLXR5cGU6YWxwaGEiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjMiIHk9IjIiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTMuNzE4NzUgMy45Mjk3MkM1LjYyNzg5IDMuMzY3MzMgOC40NTU2OCAyLjUyNDExIDkuNjQ4MjggMi4xNjgxMkMxMC4wMTczIDIuMDU3OTcgMTAuNDA3NSAyLjA1NzExIDEwLjc3NzEgMi4xNjUzM0MxMS45MjYgMi41MDE3MyAxNC41OTg0IDMuMjg3ODMgMTYuNjY0OCAzLjkyMzQ5QzE3LjA4MjggNC4wNTIwOSAxNy4zNjc5IDQuNDQ1OTMgMTcuMzU3NSA0Ljg4MzE5QzE3LjExODggMTQuOTg2NyAxMi4wMTk2IDE3LjQxMDUgMTAuNTg0MiAxNy44OTM2QzEwLjMzODggMTcuOTc2MiAxMC4wODM3IDE3Ljk3NjQgOS44MzgwMiAxNy44OTQ1QzguMzk1NjcgMTcuNDEzNyAzLjI1NDIxIDE0Ljk5NTEgMy4wMDkwNyA0Ljg5NzE0QzIuOTk4MyA0LjQ1MzE3IDMuMjkyNzYgNC4wNTUyMSAzLjcxODc1IDMuOTI5NzJaIiBmaWxsPSIjRDlEOUQ5Ii8+PC9tYXNrPjxnIG1hc2s9InVybCgjbWFzazBfMTU2XzI1MikiPjxwYXRoIGQ9Ik0xMC4yMTEyIDkuNzc0NjVMMTAuMDk4NiAxLjcxODMxTDE3LjgxNjkgMy44MDI4MkwxMC4yMTEyIDkuNzc0NjVaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfMTU2XzI1MikiLz48cGF0aCBkPSJNMTAuMjExMyA5Ljc3NDY1VjJMMi44MzA5OCAzLjk3MTgzTDEuODE2ODkgOC43NjA1Nkw1LjAyODE2IDEzLjc3NDZMMTAuMjExMyA5Ljc3NDY1WiIgZmlsbD0idXJsKCNwYWludDFfbGluZWFyXzE1Nl8yNTIpIi8+PHBhdGggZD0iTTE3LjU5MTUgMy45NzE4M0w0LjkxNTQ3IDEzLjc3NDZWMTguMjI1NEgxNy40MjI1TDE3LjU5MTUgMy45NzE4M1oiIGZpbGw9InVybCgjcGFpbnQyX2xpbmVhcl8xNTZfMjUyKSIvPjwvZz48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMTU2XzI1MiIgeDE9IjEwLjIxMTIiIHkxPSIyIiB4Mj0iMTUuNjE5NyIgeTI9IjUuNTQ5MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiMxOUFBRTgiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxRUE1RjEiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQxX2xpbmVhcl8xNTZfMjUyIiB4MT0iMy4wNTYzMyIgeTE9IjQuMTQwODUiIHgyPSIxMC4yMTEzIiB5Mj0iOS42NjE5NyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiMyQkUyQjgiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxOUI5RTMiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQyX2xpbmVhcl8xNTZfMjUyIiB4MT0iMTcuMzA5OCIgeTE9IjQuMDI4MTciIHgyPSI3Ljk1NzcyIiB5Mj0iMTYuOTg1OSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiM5MjVDREYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNDQzQyRTUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4=" />&nbsp;
-			<img alt="Firebase Firestore Database" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />&nbsp;
-			<img alt="Firebase Storage" src="https://img.shields.io/badge/-Firebase%20Storage-05122A?style=flat&logo=firebase" />&nbsp;
+			<img alt="Stripe API" src="https://img.shields.io/badge/-Stripe&20API-05122A?style=flat&logo=stripe" />&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -98,6 +95,8 @@
 			<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions" />&nbsp;
 			<img alt="AWS SDK" src="https://img.shields.io/badge/-AWS%20SDK-05122A?style=flat&logo=amazonwebservices" />&nbsp;
 			<img alt="Cloudflare R2" src="https://img.shields.io/badge/-Cloudflare%20R2-05122A?style=flat&logo=cloudflare" />&nbsp;
+			<img alt="Firebase Firestore Database" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />&nbsp;
+			<img alt="Firebase Storage" src="https://img.shields.io/badge/-Firebase%20Storage-05122A?style=flat&logo=firebase" />&nbsp;
 			<img alt="Render" src="https://img.shields.io/badge/-Render-05122A?style=flat&logo=render" />&nbsp;
 			<img alt="Neon" src="https://img.shields.io/badge/-Neon-05122A?style=flat&logo=data:image/png;base64,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" />&nbsp;
 		</td>
@@ -110,10 +109,11 @@
 		</td>
 	</tr>
 	<tr>
-		<th>Linters</th>
+		<th>Linters & Formatting</th>
 		<td>
 			<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint" />&nbsp;
 			<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier" />&nbsp;
+			<img alt="EditorConfig" src="https://img.shields.io/badge/-EditorConfig-05122A?style=flat&logo=editorconfig" />&nbsp;
 		</td>
 	</tr>
 	<tr>
@@ -124,11 +124,13 @@
 			<img alt="Google Chrome" src="https://img.shields.io/badge/-Google%20Chrome-05122A?style=flat&logo=google-chrome" />&nbsp;
 			<img alt="Safari" src="https://img.shields.io/badge/-Safari-05122A?style=flat&logo=safari" />&nbsp;
 			<img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />&nbsp;
+			<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />&nbsp;
+			<img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket" />&nbsp;
 			<img alt="NPM" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm" />&nbsp;
 			<img alt="PNPM" src="https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm" />&nbsp;
-			<img alt="Warp Terminal" src="https://img.shields.io/badge/-Warp%20Terminal-05122A?style=flat&logo=warp" />&nbsp;
+			<!-- <img alt="Warp Terminal" src="https://img.shields.io/badge/-Warp%20Terminal-05122A?style=flat&logo=warp" />&nbsp; -->
 			<img alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />&nbsp;
-			<img alt="Httpie" src="https://img.shields.io/badge/-HTTPie-05122A?style=flat&logo=httpie" />&nbsp;
+			<!-- <img alt="Httpie" src="https://img.shields.io/badge/-HTTPie-05122A?style=flat&logo=httpie" />&nbsp; -->
 			<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia" />&nbsp;      
 			<img alt="Trello" src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello" />&nbsp;
 			<img alt="Toggl Track" src="https://img.shields.io/badge/-Toggl%20Track-05122A?style=flat&logo=toggltrack" />&nbsp;
