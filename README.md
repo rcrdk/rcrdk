@@ -6,7 +6,7 @@
 - 🚀 I’m constantly improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning React Native!)
 - 👻 I do some PHP/Laravel work for paying my weekends.
 - 👀 I’m open to collaborate on new projects.
-- 👑 Fun fact: Madonna is the queen of pop.
+<!-- - 👑 Fun fact: Madonna is the queen of pop. -->
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)? 
 - 🧑🏼‍💻 Read more at [rcrdk.dev](https://rcrdk.dev)
 - 🕹️ Checkout my GitHub projects filtered by: [React and Next.js](https://github.com/rcrdk?tab=repositories&q=React), [Node.js](https://github.com/rcrdk?tab=repositories&q=Node.Js), [React Native](https://github.com/rcrdk?tab=repositories&q=React+Native)
