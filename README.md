@@ -1,14 +1,14 @@
 <h1 align="left">Hi 👋, I'm Ricardo</h1>
 
 - 🔥 I'm a Front-End Developer.
-- 💻 I’m currently working at [Meu Rosinha](http://meurosinha.com.br).
+- 💻 I’m currently working at [MySide](https://myside.com.br).
+- 👴🏼 I also worked at [Meu Rosinha](https://meurosinha.com.br), [Sou Digital](http://sou.digital) and [Sonica](https://sonica.xyz/)
 - 🎨 I've been working for over 12 years creating custom websites, landing pages, e-commerces and web apps.
 - 🚀 I’m constantly improving my skills on React, Next.js and Node.js at [Rocketseat](https://app.rocketseat.com.br/me/rcrdk). (btw, I'm learning React Native!)
 - 👻 I do some PHP/Laravel work for paying my weekends.
 - 👀 I’m open to collaborate on new projects.
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)? 
-- 🧑🏼‍💻 Read more at [rcrdk.dev](https://rcrdk.dev)
-- 🕹️ Checkout my GitHub projects filtered by: [React and Next.js](https://github.com/rcrdk?tab=repositories&q=React), [Node.js](https://github.com/rcrdk?tab=repositories&q=Node.Js), [React Native](https://github.com/rcrdk?tab=repositories&q=React+Native)
+- 🧑🏼‍💻 Get to know me a little more and play a game at [rcrdk.dev](https://rcrdk.dev)
 
 <br>
 
