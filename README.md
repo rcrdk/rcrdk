@@ -1,10 +1,12 @@
-<h1 align="left">Hi 👋, I'm Ricardo</h1>
+<h1 align="left">Hi 👋🏻, I'm Ricardo</h1>
 
 - 🔥 I'm a Front-End Developer focused on crafting fast, accessible web experiences.
-- 💻 I’m currently at [MySide](https://myside.com.br), building **Hero**, a personal assistant for the company’s personal shoppers.
-- 👴🏼 Previously, I worked at [Meu Rosinha](https://meurosinha.com.br), [Sou Digital](http://sou.digital) and [Sonica](https://sonica.xyz), shipping custom sites, landing pages, e‑commerces and web apps.
-- 🎨 I’ve spent 13+ years designing and building bespoke experiences for brands of all sizes.
-- 👀 I’m open to collaborating on new front-end projects and products.
+- 💻 I’m currently at [MySide](https://myside.com.br), building **Hero**, an AI-powered assistant used daily by the company’s personal shoppers.
+- 🤖 I love using AI to speed up development, experiment with ideas, and ship better products (from components and flows to tests).
+- 🤖 Previously I worked at [Meu Rosinha](https://meurosinha.com.br), [Sou Digital](http://sou.digital) and [Sonica](https://sonica.xyz), helping ship 200+ projects between websites, e‑commerces and web apps.
+- 🎨 I’ve spent 13+ years designing and building bespoke interfaces with attention to performance, DX and UX.
+- 👀 I’m open to collaborating on new front-end **SaaS** products and long-term projects.
+- 🧪 I also work on personal projects that might grow into real products. **Soooooon!**
 - 🎸 Have you ever listened to [CSS](https://open.spotify.com/intl-pt/artist/2K13AVg3bFpHSxDM1vJ0qA?si=Y-SFL3M8SCyXTfJ_uZ5qfA)?
 - 🧑🏼‍💻 Explore my work and play a small game at [rcrdk.dev](https://rcrdk.dev).
 
