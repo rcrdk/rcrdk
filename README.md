@@ -104,12 +104,10 @@
 			<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab" />&nbsp;
 			<img alt="PNPM" src="https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm" />&nbsp;
 			<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn" />&nbsp;
-			<img alt="NPM" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm" />&nbsp;
 			<img alt="Docker" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />&nbsp;
 			<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia" />&nbsp;      
 			<img alt="Jira" src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jirasoftware" />&nbsp;
 			<img alt="Trello" src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello" />&nbsp;
-			<img alt="Toggl Track" src="https://img.shields.io/badge/-Toggl%20Track-05122A?style=flat&logo=toggltrack" />&nbsp;
 			<img alt="Notion" src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion" />&nbsp;
 			<img alt="Figma" src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" />&nbsp;
 			<img alt="Discord" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" />&nbsp;
@@ -133,7 +131,8 @@
 ## 🤙🏻 Contact me
 
 <p>
-	<a href="mailto:ricardoakowalski@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://linkedin.com/in/rcrdk" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzEwIDMxMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZD0iTTcyLjE2LDk5LjczSDkuOTI3Yy0yLjc2MiwwLTUsMi4yMzktNSw1djE5OS45MjhjMCwyLjc2MiwyLjIzOCw1LDUsNUg3Mi4xNmMyLjc2MiwwLDUtMi4yMzgsNS01VjEwNC43MyBDNzcuMTYsMTAxLjk2OSw3NC45MjIsOTkuNzMsNzIuMTYsOTkuNzN6Ii8+PHBhdGggZD0iTTQxLjA2NiwwLjM0MUMxOC40MjIsMC4zNDEsMCwxOC43NDMsMCw0MS4zNjJDMCw2My45OTEsMTguNDIyLDgyLjQsNDEuMDY2LDgyLjQgYzIyLjYyNiwwLDQxLjAzMy0xOC40MSw0MS4wMzMtNDEuMDM4QzgyLjEsMTguNzQzLDYzLjY5MiwwLjM0MSw0MS4wNjYsMC4zNDF6Ii8+PHBhdGggZD0iTTIzMC40NTQsOTQuNzYxYy0yNC45OTUsMC00My40NzIsMTAuNzQ1LTU0LjY3OSwyMi45NTRWMTA0LjczYzAtMi43NjEtMi4yMzgtNS01LTVoLTU5LjU5OSBjLTIuNzYyLDAtNSwyLjIzOS01LDV2MTk5LjkyOGMwLDIuNzYyLDIuMjM4LDUsNSw1aDYyLjA5N2MyLjc2MiwwLDUtMi4yMzgsNS01di05OC45MThjMC0zMy4zMzMsOS4wNTQtNDYuMzE5LDMyLjI5LTQ2LjMxOSBjMjUuMzA2LDAsMjcuMzE3LDIwLjgxOCwyNy4zMTcsNDguMDM0djk3LjIwNGMwLDIuNzYyLDIuMjM4LDUsNSw1SDMwNWMyLjc2MiwwLDUtMi4yMzgsNS01VjE5NC45OTUgQzMxMCwxNDUuNDMsMzAwLjU0OSw5NC43NjEsMjMwLjQ1NCw5NC43NjF6Ii8+PC9zdmc+" /></a>
-	<a href="https://behance.net/rcrdk" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+	<a href="https://rcrdk.dev" target="_blank"><img alt="rcrdk.dev" src="https://img.shields.io/badge/rcrdk.dev-05122A?style=for-the-badge&logo=slint&logoColor=white" /></a>
+	<a href="https://linkedin.com/in/rcrdk" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzEwIDMxMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZD0iTTcyLjE2LDk5LjczSDkuOTI3Yy0yLjc2MiwwLTUsMi4yMzktNSw1djE5OS45MjhjMCwyLjc2MiwyLjIzOCw1LDUsNUg3Mi4xNmMyLjc2MiwwLDUtMi4yMzgsNS01VjEwNC43MyBDNzcuMTYsMTAxLjk2OSw3NC45MjIsOTkuNzMsNzIuMTYsOTkuNzN6Ii8+PHBhdGggZD0iTTQxLjA2NiwwLjM0MUMxOC40MjIsMC4zNDEsMCwxOC43NDMsMCw0MS4zNjJDMCw2My45OTEsMTguNDIyLDgyLjQsNDEuMDY2LDgyLjQgYzIyLjYyNiwwLDQxLjAzMy0xOC40MSw0MS4wMzMtNDEuMDM4QzgyLjEsMTguNzQzLDYzLjY5MiwwLjM0MSw0MS4wNjYsMC4zNDF6Ii8+PHBhdGggZD0iTTIzMC40NTQsOTQuNzYxYy0yNC45OTUsMC00My40NzIsMTAuNzQ1LTU0LjY3OSwyMi45NTRWMTA0LjczYzAtMi43NjEtMi4yMzgtNS01LTVoLTU5LjU5OSBjLTIuNzYyLDAtNSwyLjIzOS01LDV2MTk5LjkyOGMwLDIuNzYyLDIuMjM4LDUsNSw1aDYyLjA5N2MyLjc2MiwwLDUtMi4yMzgsNS01di05OC45MThjMC0zMy4zMzMsOS4wNTQtNDYuMzE5LDMyLjI5LTQ2LjMxOSBjMjUuMzA2LDAsMjcuMzE3LDIwLjgxOCwyNy4zMTcsNDguMDM0djk3LjIwNGMwLDIuNzYyLDIuMjM4LDUsNSw1SDMwNWMyLjc2MiwwLDUtMi4yMzgsNS01VjE5NC45OTUgQzMxMCwxNDUuNDMsMzAwLjU0OSw5NC43NjEsMjMwLjQ1NCw5NC43NjF6Ii8+PC9zdmc+" /></a>
+	<a href="mailto:ricardoakowalski@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://behance.net/rcrdk" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-05122A?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
